@@ -1,2 +1,5 @@
 cmake-build-debug/
 .idea/
+
+/harry_potter
+/liblib.so
